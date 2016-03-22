@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2A8EF508-25DD-08C9-2333-2F2BDB043520}") = "BollGame", "Assembly-CSharp.csproj", "{C7E04609-5AFA-9D71-5720-A8E81D6DDE4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7E04609-5AFA-9D71-5720-A8E81D6DDE4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E04609-5AFA-9D71-5720-A8E81D6DDE4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E04609-5AFA-9D71-5720-A8E81D6DDE4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E04609-5AFA-9D71-5720-A8E81D6DDE4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
